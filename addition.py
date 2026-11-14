@@ -1,5 +1,5 @@
-n1 = 10
-n2=20
+n1 = int(input("enter number"))
+n2 = int(input("enter number"))
 
 result = n1+n2
 
